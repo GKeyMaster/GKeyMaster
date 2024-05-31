@@ -12,8 +12,12 @@
 to my personal GitHub profile!
 </div>
 
+<br>
+
+<hr>
+
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="60%" align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="40%" align="center">
 </div>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" align="center">
