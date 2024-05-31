@@ -5,18 +5,16 @@
 ---
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif"  width="80%" alt="Welcome" align="center">
-</div>
-
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="80%" align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif"  width="50%" alt="Welcome" align="center">
 </div>
 
 <div align="center">
 to my personal GitHub profile!
 </div>
 
-<hr>
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" width="60%" align="center">
+</div>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" align="center">
 
