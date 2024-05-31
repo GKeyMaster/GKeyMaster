@@ -1,8 +1,5 @@
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif"  width="50%" alt="Welcome" align="center">
-</div>
-<div align="center">
-to my personal GitHub profile!
+<img src="welcome-header.gif" alt="welcome to my github profile">
 </div>
 
 <br>
